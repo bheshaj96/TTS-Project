@@ -1,5 +1,5 @@
 <audio id="player" controls>
-  <source src="/path/to/audio.mp3" type="audio/mp3" />
+  <source src="audio.mp3" type="audio/mp3" />
   <source src="/path/to/audio.ogg" type="audio/ogg" />
 </audio>
 
