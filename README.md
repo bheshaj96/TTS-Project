@@ -1,3 +1,8 @@
+<audio id="player" controls>
+  <source src="/path/to/audio.mp3" type="audio/mp3" />
+  <source src="/path/to/audio.ogg" type="audio/ogg" />
+</audio>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bheshaj96/TTS-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
