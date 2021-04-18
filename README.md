@@ -3,6 +3,7 @@
 ### Sentence 1:
 <audio id="player" controls>
   <source src="audio.mp3" type="audio/mp3" />
+  <track kind="captions" label="English captions" src="captions.vtt" srclang="en" default />
 </audio>
 
 
