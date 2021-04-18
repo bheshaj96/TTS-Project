@@ -1,6 +1,6 @@
 <audio id="player" controls>
   <source src="audio.mp3" type="audio/mp3" />
-  <source src="/path/to/audio.ogg" type="audio/ogg" />
+  <source src="audio.mp3" type="audio/mp3" />
 </audio>
 
 ## Welcome to GitHub Pages
