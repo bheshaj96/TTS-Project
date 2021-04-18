@@ -1,12 +1,7 @@
-# Model Samples
 <p class="text">Sentence 1.</p>
-### Sentence 1
+## Sentence 1
 <table>
   <tbody>
-    <tr>
-      <td style="text-align: center"><audio src="audio.mp3" controls="" preload=""></audio></td>
-      <td style="text-align: center"><audio src="audio.mp3" controls="" preload=""></audio></td>
-    </tr>
     <tr>
       <td style="text-align: center"><b>Predicted</b></td>
       <td style="text-align: center"><b>GT</b></td>
