@@ -1,6 +1,13 @@
+## Model Samples
+
 <audio id="player" controls>
   <source src="audio.mp3" type="audio/mp3" />
+  <source src="s1_s1_02.wav" type="audio/wav" />
+</audio>
+
+<audio id="player" controls>
   <source src="audio.mp3" type="audio/mp3" />
+  <source src="s1_s1_02.wav" type="audio/wav" />
 </audio>
 
 ## Welcome to GitHub Pages
