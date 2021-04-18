@@ -1,4 +1,27 @@
-#                                  Model Samples
+# Model Samples
+<p class="text">Sentence 1.</p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">forward + wavernn</th>
+      <th style="text-align: center">autoregressive + wavernn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><audio src="audio.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="audio.mp3" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><b>Predicted</b></td>
+      <td style="text-align: center"><b>GT</b></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><audio src="audio.mp3" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="audio.mp3" controls="" preload=""></audio></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Sentence 1
 <audio id="player" controls>
