@@ -1,10 +1,4 @@
-<h2 align="center" id="TTS Samples">
-<p>TTS Samples</p>
-</h2>
-
-
-
-# Model Samples 
+# ->Model Samples<-
 
 ### Sentence 1
 <audio id="player" controls>
