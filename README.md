@@ -1,12 +1,7 @@
 # Model Samples
 <p class="text">Sentence 1.</p>
+### Sentence 1
 <table>
-  <thead>
-    <tr>
-      <th style="text-align: center">forward + wavernn</th>
-      <th style="text-align: center">autoregressive + wavernn</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td style="text-align: center"><audio src="audio.mp3" controls="" preload=""></audio></td>
