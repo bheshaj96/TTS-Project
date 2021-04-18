@@ -1,9 +1,18 @@
 # Model Samples 
+
 ### Sentence 1
 <audio id="player" controls>
   <source src="audio.mp3" type="audio/mp3" />
 </audio>
+<audio id="player" controls>
+  <source src="audio.mp3" type="audio/mp3" />
+</audio>
+
 ### Sentence 2
+<audio id="player" controls>
+  <source src="audio.mp3" type="audio/mp3" />
+  <source src="s1_s1_02.wav" type="audio/wav" />
+</audio>
 <audio id="player" controls>
   <source src="audio.mp3" type="audio/mp3" />
   <source src="s1_s1_02.wav" type="audio/wav" />
