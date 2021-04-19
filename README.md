@@ -152,7 +152,7 @@
 </tr>
 
 
-p class="text">23. seven _ ctl00 ctl04 ctl01 ctl00 ctl00</p>
+<p class="text">23. seven _ ctl00 ctl04 ctl01 ctl00 ctl00</p>
 
 <tr>
   <td style="text-align: center"><audio src="fastspeech_test_audios/synthesized_audios_by_waveglow/fastspeech_test_sentences_ljspeech_v1_22.mel_synthesis.wav" controls="" preload=""></audio></td>
