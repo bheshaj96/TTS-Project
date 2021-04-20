@@ -26,13 +26,13 @@
       <td style="text-align: center"><i>GT (Mel + WaveGlow)</i></td>
       <td style="text-align: center">4.00 &#177; 0.09</td>
       <td style="text-align: center">1.007 &#177; 0.18</td>
-      <td style="text-align: center">1.022 &#177; 0.060</td>      
+      <td style="text-align: center">1.1047 &#177; 0.59</td>      
     </tr>
     <tr>
       <td style="text-align: center"><i>FastSpeech (Mel + WaveGlow)</i></td>
       <td style="text-align: center">3.84 &#177; 0.08</td>
       <td style="text-align: center">1.052 &#177; 0.05</td>
-      <td style="text-align: center">1.03 &#177; 0.28</td>      
+      <td style="text-align: center">1.076 &#177; 0.27</td>      
     </tr>    
   </tbody>
 </table>
