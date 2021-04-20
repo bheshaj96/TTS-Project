@@ -25,7 +25,7 @@
     <tr>
       <td style="text-align: center"><i>GT (Mel + WaveGlow)</i></td>
       <td style="text-align: center">4.00 &#177; 0.09</td>
-      <td style="text-align: center">1.007 &#177; 0.18</td>
+      <td style="text-align: center">1.036 &#177; 0.17</td>
       <td style="text-align: center">1.1047 &#177; 0.59</td>      
     </tr>
     <tr>
