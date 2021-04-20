@@ -37,6 +37,8 @@
   </tbody>
 </table>
 <br>
+## Below are audio predictions (22050 sr)
+<br>
 <p class="text">1. Oswald provided little information during his questioning.</p>
 <table>
   <tbody>
