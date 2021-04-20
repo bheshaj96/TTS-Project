@@ -1,27 +1,41 @@
 ## LJSpeech Test Audios
 # Updating ...
-### Author's Result - check
-
+<br>
+<br>
+### Results - check
+<p class="text">LJSpeech Audio (22,050 sr) was downsampled to 16,000 before PESQ computation.</p>
+<br>
 <table>
   <tbody>
     <tr>
       <td style="text-align: center"><b>Method</b></td>
-      <td style="text-align: center"><b>MOS</b></td>
+      <td style="text-align: center"><b>MOS (Author)</b></td>
+      <td style="text-align: center"><b>MOS_LQO (Narrowband)</b></td>
+      <td style="text-align: center"><b>MOS_LQO (WideBand)</b></td>      
     </tr>
     <tr>
       <td style="text-align: center"><i>GT</i></td>
       <td style="text-align: center">4.41 &#177; 0.08</td>
+      <td style="text-align: center">4.5 &#177; 0.00</td>
+      <td style="text-align: center">4.64 &#177; 0.00</td>      
     </tr>
     <tr>
       <td style="text-align: center"><i>GT (Mel + WaveGlow)</i></td>
       <td style="text-align: center">4.00 &#177; 0.09</td>
+      <td style="text-align: center">1.007 &#177; 0.05219</td>
+      <td style="text-align: center">1.022 &#177; 0.060</td>      
     </tr>
     <tr>
       <td style="text-align: center"><i>FastSpeech (Mel + WaveGlow)</i></td>
       <td style="text-align: center">3.84 &#177; 0.08</td>
+      <td style="text-align: center">0.23 &#177; 0.15</td>
+      <td style="text-align: center">1.03 &#177; 0.28</td>      
     </tr>    
   </tbody>
 </table>
+<br>
+<br>
+<br>
       
 <p class="text">1. Oswald provided little information during his questioning.</p>
 <table>
