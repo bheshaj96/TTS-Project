@@ -9,8 +9,8 @@
       <td style="text-align: center"><b>MOS</b></td>
     </tr>
     <tr>
-      <td><i>GT</b></td>
-      <td><i>4.41 +- 0.08</b></td>
+      <td><i>GT</td>
+      <td><i>4.41 &#177 0.08</td>
     </tr>
     
       
