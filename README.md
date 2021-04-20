@@ -1,6 +1,6 @@
 ## LJSpeech Test Audios
-
-### Author's Result
+# Updating ...
+### Author's Result - check
 
 <table>
   <tbody>
@@ -9,16 +9,16 @@
       <td style="text-align: center"><b>MOS</b></td>
     </tr>
     <tr>
-      <td><i>GT</i></td>
-      <td>4.41 &#177 0.08</td>
+      <td style="text-align: center"><i>GT</i></td>
+      <td style="text-align: center">4.41 &#177; 0.08</td>
     </tr>
     <tr>
-      <td><i>GT (Mel + WaveGlow)</i></td>
-      <td>4.00 &#177 0.09</td>
+      <td style="text-align: center"><i>GT (Mel + WaveGlow)</i></td>
+      <td style="text-align: center">4.00 &#177; 0.09</td>
     </tr>
     <tr>
-      <td><i>FastSpeech (Mel + WaveGlow)</i></td>
-      <td>3.84 &#177 0.08</td>
+      <td style="text-align: center"><i>FastSpeech (Mel + WaveGlow)</i></td>
+      <td style="text-align: center">3.84 &#177; 0.08</td>
     </tr>    
   </tbody>
 </table>
