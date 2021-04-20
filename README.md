@@ -1,5 +1,19 @@
 ## LJSpeech Test Audios
 
+### Author's Result
+
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><b>Method</b></td>
+      <td style="text-align: center"><b>MOS</b></td>
+    </tr>
+    <tr>
+      <td><i>GT</b></td>
+      <td><i>4.41 +- 0.08</b></td>
+    </tr>
+    
+      
 <p class="text">1. Oswald provided little information during his questioning.</p>
 <table>
   <tbody>
