@@ -1,8 +1,7 @@
-# LJSpeech Test Audios
+### LJSpeech Test Audios
 # Updating ...
 <br>
-<br>
-## Results - check
+## Results
 <p class="text">LJSpeech Audio (22,050 sr) was downsampled to 16,000 before PESQ computation.</p>
 <p class="text">GT - Ground Truth Audio.</p>
 <p class="text">GT (Mel + WaveGlow) - first convert the ground truth audio into mel-spectrograms, and then convert the mel-spectrograms back to audio using WaveGlow.</p>
@@ -37,9 +36,6 @@
   </tbody>
 </table>
 <br>
-<br>
-<br>
-      
 <p class="text">1. Oswald provided little information during his questioning.</p>
 <table>
   <tbody>
