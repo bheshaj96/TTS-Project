@@ -9,10 +9,19 @@
       <td style="text-align: center"><b>MOS</b></td>
     </tr>
     <tr>
-      <td><i>GT</td>
-      <td><i>4.41 &#177 0.08</td>
+      <td><i>GT</i></td>
+      <td>4.41 &#177 0.08</td>
     </tr>
-    
+    <tr>
+      <td><i>GT (Mel + WaveGlow)</i></td>
+      <td>4.00 &#177 0.09</td>
+    </tr>
+    <tr>
+      <td><i>FastSpeech (Mel + WaveGlow)</i></td>
+      <td>3.84 &#177 0.08</td>
+    </tr>    
+  </tbody>
+</table>
       
 <p class="text">1. Oswald provided little information during his questioning.</p>
 <table>
