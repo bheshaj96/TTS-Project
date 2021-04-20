@@ -32,7 +32,7 @@
     <tr>
       <td style="text-align: center"><i>FastSpeech (Mel + WaveGlow)</i></td>
       <td style="text-align: center">3.84 &#177; 0.08</td>
-      <td style="text-align: center">1.052 &#177; 0.05</td>
+      <td style="text-align: center">1.166 &#177; 0.54</td>
       <td style="text-align: center">1.076 &#177; 0.27</td>      
     </tr>    
   </tbody>
