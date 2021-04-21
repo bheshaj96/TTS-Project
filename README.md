@@ -1,7 +1,6 @@
 ### LJSpeech Test Audios
 <br>
 ## Results 
-### Wrong Results Published, Updating...
 <br>
 <p class="text">Below Table Shows MOS with 95% Confidence Interval.</p>
 <p class="text">LJSpeech Audio (22,050 sr) was downsampled to 16,000 before PESQ computation.</p>
@@ -27,14 +26,14 @@
     <tr>
       <td style="text-align: center"><i>GT (Mel + WaveGlow)</i></td>
       <td style="text-align: center">4.00 &#177; 0.09</td>
-      <td style="text-align: center">1.036 &#177; 0.17</td>
-      <td style="text-align: center">1.1047 &#177; 0.59</td>      
+      <td style="text-align: center">3.837 &#177; 0.72</td>
+      <td style="text-align: center">3.646 &#177; 0.82</td>      
     </tr>
     <tr>
       <td style="text-align: center"><i>FastSpeech (Mel + WaveGlow)</i></td>
       <td style="text-align: center">3.84 &#177; 0.08</td>
-      <td style="text-align: center">1.166 &#177; 0.54</td>
-      <td style="text-align: center">1.076 &#177; 0.27</td>      
+      <td style="text-align: center">1.667 &#177; 0.378</td>
+      <td style="text-align: center">1.41 &#177; 0.26</td>      
     </tr>    
   </tbody>
 </table>
